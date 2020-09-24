@@ -1,0 +1,45 @@
+1
+Both you and your Assistant confessed.
+
+Since both of you confessed, your captors have chosen to show mercy.
+You and your assistant will each receive three years in prison.
+
+Not the most reliable duo, are you?
+
+=== MISSION FAILED ===
+#
+
+2
+You confessed but your Assistant did not.
+
+Your captors do not take kindly to liars. As punishment, your
+Assistant has been sentenced to death.
+
+You have been set free.
+
+=== MISSON FAILED ===
+#
+
+3
+Your Assistant confessed but you did not.
+
+Your stubborness is not appreciated. As payment for cooperating, 
+your Assistant has been set free.
+
+You have been sentenced to death.
+
+If only you had picked a more Reliable Assistant...
+
+=== MISSION FAILED ===
+#
+
+4
+Neither you nor your Assistant confessed.
+
+Your captors are still suspicious, but they are unable to gain any
+condemning evidence against the both of you.
+
+You and your assistant have been set free.
+
+=== MISSION SUCCESS ===
+#

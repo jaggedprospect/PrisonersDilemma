@@ -1,0 +1,6 @@
+====================================================
+Select an option by typing the corresponding number:
+
+1) Start game
+2) Help
+3) Quit

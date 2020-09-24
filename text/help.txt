@@ -1,0 +1,39 @@
+==================
+Prisoner's Dilemma
+==================
+
+The Prisoner's Dilemma is a game formalized by Albert Tucker that is meant
+to simulate real-world cooperative behavior. 
+
+In this version, there are two players: you and your Assistant (the Computer).
+You have been assigned a dangerous Mission and must choose one candidate from
+a group of three to be your Assistant. During this Mission, it is guaranteed
+that the both of you will be detained and questioned. Therefore, it is important
+that you choose the most reliable Assistant to ensure success.
+
+The following scenarios can occur: 
+
+1) Neither players confess and both are freed. (SUCCESS)
+
+2) One player confesses, but the other does not. The player that confessed is
+   released. The other player is sentenced to death. (FAILURE)
+
+3) Both players confess and serve three years in prison. (FAILURE)
+
+Each candidate will be assigned a Reliability Rating. A rating of 0.0 means the
+candidate will be reliable 0% of the time while a rating of 1.0 indicates 100%
+reliability. These ratings will not be disclosed until the end of the simulation.
+
+Before selecting an Assistant, the three candidates will be sent on a Test Mission. 
+The candidates are interrogated and will answer truthfully. You will be shown the
+candidates' actions and must choose your Assistant based soley on this information.
+
+Then the Real Mission begins...
+
+==> How To Play <==
+
+You will be prompted with text from the Terminal. 
+
+A line beginning with '>>' indicates that User Input is required. 
+
+Use the keyboard to type your responses, and press the ENTER key to submit. 
