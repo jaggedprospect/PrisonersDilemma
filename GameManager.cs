@@ -9,7 +9,7 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 
-namespace Project_0{
+namespace Project_0{ // Edit to match your project's namespace
 
     /// <summary>Class <c>GameManager</c> simulates the Prisoner's Dilemma game.</summary>
     public class GameManager{
